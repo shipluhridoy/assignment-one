@@ -1,0 +1,271 @@
+/* CSS started */
+*{
+    margin: auto;
+    font-family: 'Work Sans', sans-serif;
+    
+} 
+
+
+.header{
+    background: url(../images/banner/banner2.png);
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 809px;
+    left: 1600px;
+    top: 0px;
+
+
+}
+
+.header-div{
+    text-align: right;
+    padding-right: 230px;
+  
+
+}
+.header h1{
+    width: 525px;
+    height: 228px;
+    padding-left: 845px;
+    padding-top: 216px;    ;
+    font-Weight:700;
+    font-Size:65px;
+    Line-height:76.25px;
+    text-align: right;
+    color: #151414;
+}
+.header p{
+    width: 494px;
+    height: 78px;
+    padding-left: 876px;
+    padding-top: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+
+}
+
+.header button{
+    
+    padding: 21px 25px ;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: right;
+    margin-top: 32px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: 0px;
+    color: #FFFFFF;
+   
+
+}
+
+.my-failour{
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    padding-top: 130px;
+    display: flex;
+    
+}
+
+.my-failour div {
+    width: 416px;
+    height: 400px;
+    padding-top: 240px;
+    padding-left: 87px;
+    
+
+
+}
+
+.my-failour-h1{
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+
+}
+
+.my-failour-p{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 16px;
+
+}
+
+.my-failour-li{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    list-style-type: none;
+    list-style-image: url(../images/icons/check.png);
+       
+    
+}
+i{color: #16D887;}
+
+.my-plans{
+    width: 1141px;
+    height: 299.96px;
+    padding-top: 130px;
+    text-align: center; 
+
+
+}
+
+.my-plans-h1{
+    margin-bottom: 50px;
+    width: 179px;
+    height: 47px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+
+}
+
+.my-plans-div{
+
+    display: flex;
+}
+
+.my-plan-icon-title{
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    padding-top: 25px;
+}
+
+.my-plan-icon-description{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    padding-top: 16px;
+
+}
+
+.positiv-mindset{
+    background-image: url(../images/gradient2.png), url(../images/watch.png);
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    margin-top: 125px;
+    margin-bottom: 130px;
+
+}
+
+#positiv-mindset-div{
+    padding-left: 64px;
+    padding-top: 60px;
+
+}
+.positiv-mindset-h1{
+    text-align: left;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    padding-bottom: 25px;
+    
+}
+
+.button{
+    width: 160px;
+    height: 64px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #F15B22;
+    border-radius: 5px;
+    border: 0px;
+}
+
+
+.footer{
+
+
+    width: 100%;
+    height: 577px;
+    background: #151414;
+}
+
+.footer-div{
+    width: 1140px;
+    display: flex;
+    color: #FFFFFF;
+    padding-top: 130px;
+}
+
+.Future{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+}
+
+.footer-p{
+    width: 485px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-top: 16px;
+}
+
+.footer-icon{
+    padding-top: 32px;
+    white-space: 10px;
+}
+
+.subscribe-h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    margin-bottom: 31px;
+
+}
+.subscribe{
+
+    width: 325px;
+    height: 64px;
+    margin-bottom: 16px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    border: 1px solid #F8F8F8;
+    border-radius: 5px;
+    padding-left: 20px;
+    background: #151414;
+}
+
+
